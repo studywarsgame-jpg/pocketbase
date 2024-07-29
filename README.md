@@ -15,7 +15,7 @@ Pocketbase is a versatile backend framework that simplifies the development of S
 
 ## Deploying:
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/?referralCode=jlaranjo)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/Oasf2M?referralCode=jlaranjo)
 
 ## Documentation
 
