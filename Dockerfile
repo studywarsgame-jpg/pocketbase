@@ -24,5 +24,5 @@ RUN wget -qO /tmp/pb.zip https://github.com/pocketbase/pocketbase/releases/downl
 EXPOSE 8080
 
 # Start PocketBase server on all network interfaces
-CMD /pb/pocketbase serve --http=0.0.0.0:$PORT
+CMD ["/pb/pocketbase", "serve", "--http=0.0.0.0:8080"]
 
